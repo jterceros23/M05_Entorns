@@ -8,11 +8,8 @@ public class exercici1 {
          int [] array;
      
          // generamos el espacio (el contenedor)
-<<<<<<< HEAD
-         array = new int [2];
-=======
+
          array = new int [6];
->>>>>>> b2bc566d9cf29c934f2dc4e9043be03a15a24669
      
      
      //Para generar el random 
